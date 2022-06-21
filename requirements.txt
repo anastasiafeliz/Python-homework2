@@ -1,0 +1,4 @@
+pytest
+selene==1.0.2
+
+
